@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=lf
+# Needed to allow proper loading
+* text eol=crlf
