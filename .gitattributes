@@ -1,23 +1,6 @@
-# Denote all files that are truly binary and should not be modified.
+# Denote all files generated from Defold are truly binary and should not be modified by Git's shenanigans.
 
-archive_files.json binary
-
-*.arcd0 binary
-*.arci0 binary
-*.dmanifest0 binary
-*.projectc0 binary
-*.public binary
-*.der0* binary
-*.png binary
-
-dmloader.js binary
-
-*.symbols binary
-*.wasm binary
-*_asmjs.js binary
-*_wasm.js binary
-
-run_game.html binary
+game_program/** binary
 
 
 
