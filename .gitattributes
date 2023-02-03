@@ -1,2 +1,4 @@
 # Needed to allow proper loading
-*.* binary
+-text -diff
+
+
