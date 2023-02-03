@@ -1,2 +1,2 @@
 # Needed to allow proper loading
-* text eol=crlf
+*.* binary
